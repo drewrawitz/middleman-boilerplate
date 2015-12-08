@@ -21,13 +21,9 @@ Pages.
 ##Installation
 1. Download/clone to: `~/.middleman/middlemanbp`
 2. Create your new Middleman project: `middleman init my_new_project --template=middlemanbp`
+3. Run the server: `middleman`
 
 *Note: You can name the template whatever you like, so long as you call the same name in the `middleman init` command*
-
-Run the server
-```
-middleman
-```
 
 ## Directories
 
