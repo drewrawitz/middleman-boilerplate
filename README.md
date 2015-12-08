@@ -18,20 +18,11 @@ Pages.
 * [Middleman Live Reload](https://github.com/middleman/middleman-livereload):
   Reloads the page when files change
 
-## Getting Started
+##Installation
+1. Download/clone to: `~/.middleman/middlemanbp`
+2. Create your new Middleman project: `middleman init my_new_project --template=middlemanbp`
 
-Set up your project in your code directory
-```
-git clone https://github.com/drewrawitz/middleman-boilerplate.git your-project-folder
-cd your-project-folder
-git remote rm origin
-git remote add origin your-git-url
-```
-
-Install dependencies:
-```
-bundle install
-```
+*Note: You can name the template whatever you like, so long as you call the same name in the `middleman init` command*
 
 Run the server
 ```
