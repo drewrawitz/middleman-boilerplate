@@ -21,7 +21,7 @@ Pages.
   Reloads the page when files change
 
 ##Installation
-1. Download/clone to: `~/.middleman/middlemanbp`
+1. clone the repo: `git clone git@github.com:drewrawitz/middleman-boilerplate.git ~/.middleman/middlemanbp`
 2. Create your new Middleman project: `middleman init my_new_project --template=middlemanbp`
 3. Run the server: `middleman`
 
