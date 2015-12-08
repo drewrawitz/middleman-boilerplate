@@ -21,8 +21,8 @@ Pages.
   Reloads the page when files change
 
 ##Installation
-1. clone the repo: `git clone git@github.com:drewrawitz/middleman-boilerplate.git ~/.middleman/middlemanbp`
-2. Create your new Middleman project: `middleman init my_new_project --template=middlemanbp`
+1. clone the repo: `git clone git@github.com:drewrawitz/middleman-boilerplate.git ~/.middleman/dev-bp`
+2. Create your new Middleman project: `middleman init my_new_project --template=dev-bp`
 3. Run the server: `middleman`
 
 *Note: You can name the template whatever you like, so long as you call the same name in the `middleman init` command*
