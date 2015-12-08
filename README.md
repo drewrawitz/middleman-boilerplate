@@ -15,6 +15,8 @@ Pages.
   Sass mixin library
 * [Neat](http://neat.bourbon.io):
   Semantic grid for Sass and Bourbon
+* [Normalize.css](http://necolas.github.com/normalize.css)
+  A modern, HTML5-ready CSS reset
 * [Middleman Live Reload](https://github.com/middleman/middleman-livereload):
   Reloads the page when files change
 
